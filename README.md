@@ -1,10 +1,10 @@
 <h1 align="center">
 Hi there I'm Otto 👋
 </h1>
-<h3 align="center">
+<h3 align="left">
 - I'm a Fullstack-Developer Student in my final year.
 </h3>c
-<h3 align="center">
+<h3 align="left">
 - Currently I'm doing an internship as a Backend-Developer at Energy Machines AB (Energy Machines) ([(https://sv.energymachines.com/])
 </h3>c
 
