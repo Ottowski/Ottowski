@@ -1,7 +1,7 @@
 ### Hi there I'm Otto 👋
 
-- I'm a Fullstack-Developer Student in my final.
-- Currently doing an internship as a Backend-Developer at [Energy Machines AB (Energy Machines)]([(https://sv.energymachines.com/])
+- I'm a Fullstack-Developer Student in my final year.
+- Currently I'm doing an internship as a Backend-Developer at [Energy Machines AB (Energy Machines)]([(https://sv.energymachines.com/])
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jfMoller&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ottowski&theme.radical)
