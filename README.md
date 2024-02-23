@@ -3,7 +3,6 @@ Hi there I'm Otto 👋
 </h1>
 <h3 align="center">
 - I'm a Fullstack-Developer Student in my final year.
-
 - Currently I'm doing an internship as a Backend-Developer at, Energy Machines AB (Energy Machines) ([(https://sv.energymachines.com/])
 </h3>
 
