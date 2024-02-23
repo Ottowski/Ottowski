@@ -2,7 +2,7 @@
 Hi there I'm Otto 👋
 </h1>
 <h3 align="center">
-- I'm a Fullstack-Developer Student in my final year.
+- I'm a Fullstack-Developer Student in my final year Teknikhögskolan in Lund.
 </h3>
 <h3 align="center">
 - Currently I'm doing an internship as a Backend-Developer at, 
