@@ -1,7 +1,7 @@
 ### Hi there I'm Otto 👋
 
 - I'm a Fullstack-Developer Student in my final year.
-- Currently I'm doing an internship as a Backend-Developer at [Energy Machines AB (Energy Machines)]([(https://sv.energymachines.com/])
+- Currently I'm doing an internship as a Backend-Developer at Energy Machines AB (Energy Machines) ([(https://sv.energymachines.com/])
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ottowski&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!--
