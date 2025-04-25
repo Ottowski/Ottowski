@@ -24,9 +24,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🍊 Fruitbasket](https://github.com/Ottowski/fruitbasket) | A serverless REST API for managing fruit inventory using Lambda, API Gateway & DynamoDB | AWS, Node.js, DynamoDB, Lambda, API Gateway |
-| [🧠 AI Fruit Classifier](https://github.com/Ottowski/fruitbasket2) | Uses SageMaker to classify fruit images, integrated with a web API and ECS deployment | AWS SageMaker, Flask, Docker, ECS |
-| [🎮 Hangman Game with GUI](https://github.com/Ottowski/hangman-gui) | A fun little project using Tkinter to add a GUI to a classic Python game | Python, Tkinter |
+| [📰 BloggProjektOtto](https://github.com/Ottowski/BloggProject) | A secure REST API for user registration, login, and JWT-authenticated access | Java, Spring Boot, Spring Security, JWT, H2 |
+| [🍊 AI Fruit Classifier](https://github.com/Ottowski/AI-Fruit-Classifier) | Uses SageMaker to classify fruit images, integrated with a web API and ECS deployment | AWS SageMaker, Flask, Docker, ECS |
+| [🎮 Hangman Game with GUI](https://github.com/Ottowski/Hangman) | A fun little project using Tkinter to add a GUI to a classic Python game | Python, Tkinter |
 
 🛠️ Tech Stack
 
