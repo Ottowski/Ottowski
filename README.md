@@ -9,7 +9,7 @@
 - 🔭 I’m currently looking for my first role as a Fullstack or Backend Developer  
 - 🌱 Recently finished a 2-year Fullstack Java program with additional training in Python, AWS, and AI
 - 💡 Passionate about building cloud-native applications with AWS, Docker, and serverless architecture
-- 🎯 Currently deep-diving into AI with Python and exploring creative ways to use SageMaker & Rekognition
+- 🎯 Currently deep-diving into AI with Python and exploring creative ways to use Machinelearning
 
 ---
 <br>
