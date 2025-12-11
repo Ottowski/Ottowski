@@ -28,7 +28,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📰 GoLang Tetris Game](https://github.com/Ottowski/GoLang-Tetris) | A fun little project in making a Tetris game version in Golang, that I felt like doing after watching the 2023 Tetris Movie | GO, JavaScript, HTML, Json, CSS |
+| [🎮 GoLang Tetris Game](https://github.com/Ottowski/GoLang-Tetris) | A fun little project in making a Tetris game version in Golang, that I felt like doing after watching the 2023 Tetris Movie | GO, JavaScript, HTML, Json, CSS |
 
 ---
 ### 💼 Featured Projects
