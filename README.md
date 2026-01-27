@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Otto</h1>
 
 <p align="center">
-  🚀 Junior Fullstack Developer | 🎓 Teknikhögskolan Lund alumn | ☁️ AWS Cloud & Python enthusiast
+  🚀 Fullstack Developer | 🎓 Teknikhögskolan Lund alumn | ☁️ AWS Cloud & Python enthusiast
 </p>
 
 ---
