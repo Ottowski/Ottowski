@@ -9,9 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently looking for my first role as a Fullstack or Backend Developer  
-- 🌱 Recently finished a 2-year Fullstack Java program with additional education in Python, AWS, and AI
-- 💡 Passionate about building cloud-native applications with AWS, Docker, and serverless architecture
-- 🎯 Currently deep-diving into Security DevOps and also learning GoLang.
+- 🌱 Recently finished a 2-year Fullstack Java program with additional education in Python, AWS, AI/MachineLearning aswell as SecureDevOps.
+- 💡 Passionate about cloud-native development (AWS, Docker, serverless) and building AI tools that simplify complex information.
+- 🎯 Currently learning GoLang adn getting a certification within the launguage.
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🎮 warhammer-ai-chatbot](https://github.com/Ottowski/warhammer-ai-chatbot) | Trying to make an AI chatbot program for the rules from the main rulebook, of the tabletop game: Warhammer The Old world | Python |
+| [📜 warhammer-ai-chatbot](https://github.com/Ottowski/warhammer-ai-chatbot) | Trying to make an AI chatbot program for the rules from the main rulebook, of the tabletop game: Warhammer The Old world | Python |
 | [🎮 GoLang Tetris Game](https://github.com/Ottowski/GoLang-Tetris) | A fun little project in making a Tetris game version in Golang, that I felt like doing after watching the 2023 Tetris Movie | GO, JavaScript, HTML, Json, CSS |
 
 ---
