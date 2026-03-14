@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently looking for my first role as a Fullstack or Backend Developer  
-- 🌱 Recently finished a 2-year Fullstack Java program with additional education in Python, AWS, AI/MachineLearning aswell as SecureDevOps.
+- 🌱 Recently finished a 2-year Fullstack Java program with additional education in Python, AWS, AI/MachineLearning and SecureDevOps.
 - 💡 Passionate about cloud-native development (AWS, Docker, serverless) and building AI tools that simplify complex information.
 - 🎯 Currently learning GoLang adn getting a certification within the launguage.
 
